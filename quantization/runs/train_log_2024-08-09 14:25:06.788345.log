@@ -1,0 +1,9 @@
+[2024-08-09 14:25:06,788][INFO] Logger prepared
+[2024-08-09 14:25:06,788][INFO] Logs will be documented to: /home/hyohyeongjang/quantization/runs/train_log_2024-08-09 14:25:06.788345.log
+[2024-08-09 14:25:07,844][DEBUG] num_params: 79,806,737
+[2024-08-09 14:25:08,464][DEBUG] datasets are from: /node_storage2/data_llm_kr/data_it_eval_240724.csv
+[2024-08-09 14:25:08,464][DEBUG] Dataset({
+    features: ['task', 'instruction', 'input', 'output', 'option'],
+    num_rows: 6062
+})
+[2024-08-09 14:25:09,642][DEBUG] start
